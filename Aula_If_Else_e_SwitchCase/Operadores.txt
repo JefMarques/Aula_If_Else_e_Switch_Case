@@ -1,0 +1,31 @@
+*Operadores em Java*
+
+> A tabela abaixo apresenta os operadores aritméticos da linguagem Java:
+
+| + | operador de adição
+| - | operador subtração
+| * | operador de multiplicação
+| / | operador de divisão
+| % | operador de módulo (ou resto da divisão)
+
+> A tabela abaixo apresenta os operadores de incremento e decremento:
+
+| ++ | incrementa em 1 o valor da variável.
+| -- | decrementam em 1 o valor da variável.
+
+> A tabela abaixo apresenta os operadores de igualdade:
+
+| == | utilizado quando desejamos verificar se uma variável é igual a outra.
+| != | utilizado quando desejamos verificar se uma variável é diferente de outra.
+
+> A tabela abaixo apresenta os operadores relacionais:
+
+| >  | utilizado quando desejamos verificar se uma variável é maior que outra.
+| >= | utilizado quando desejamos verificar se uma variável é maior ou igual a outra.
+| <  | utilizado quando desejamos verificar se uma variável é menor que outra.
+| <= | utilizado quando desejamos verificar se uma variável é menor ou igual a outra.
+
+> A tabela abaixo apresenta os operadores lógicos:
+
+| && | utilizado quando desejamos que as duas expressões sejam verdadeiras.
+| || | Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.

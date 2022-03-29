@@ -1,0 +1,6 @@
+Comando If
+
+- Comandos dentro de um bloco If só serão executados
+se a condição for verdadeira.
+
+- Se a condição for falsa, os comandos não são executados.

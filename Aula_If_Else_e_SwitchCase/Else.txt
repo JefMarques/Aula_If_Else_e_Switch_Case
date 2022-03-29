@@ -1,0 +1,4 @@
+Comando If - Else
+
+- Comandos dentro de um bloco Else só serão executados
+se a condição do If for Falsa.

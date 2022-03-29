@@ -1,0 +1,3 @@
+Comando Switch Case
+
+- Funciona como vários if-else.

@@ -30,4 +30,4 @@
 | && | utilizado quando desejamos que as duas expressões sejam verdadeiras.
 | || | Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.
 
-Fonte <https://www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289> Acessado em 28/03/2022 ás 22:18
+Fonte www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289 Acessado em 28/03/2022 ás 22:18
